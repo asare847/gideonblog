@@ -26,7 +26,7 @@
                     </ul>
                 </section>
                 <section class="3u 6u(medium) 12u$(small)">
-                    <h3>Recent articles </h3>
+                    <h3>Tags</h3>
                     <ul class="unstyled">
                         <li><a href="#">Lorem ipsum dolor sit</a></li>
                         <li><a href="#">Distinctio, inventore quidem nesciunt</a></li>
