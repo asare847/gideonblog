@@ -38,3 +38,9 @@ Route::get('/project','ProjectsController@index');
 
 
 
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
+
+Route::resource('/admin/users','Admin\UsersController',['except'=>['create','store','show']]);
